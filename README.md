@@ -14,3 +14,4 @@ O Fairycore é um projeto que visa oferecer uma experiência única de compra on
 
 ## Site
 
+https://yanswo.github.io/Fairycore/
